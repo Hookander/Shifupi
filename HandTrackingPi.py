@@ -63,4 +63,5 @@ with mp_hands.Hands(
       break
     cptImg += 1
 cap.release()
-file.close()
+filecords.close()
+filedists.close()
