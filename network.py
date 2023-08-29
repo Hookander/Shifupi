@@ -210,7 +210,7 @@ def randomData(n, network):
     return tab
 
 
-net =  Network([2, 10, 10, 3])
+#net =  Network([2, 10, 10, 3])
 #trainingData = [(np.array([[1], [3]]), np.array([[1], [0], [0]]))]
 '''
 trainingData = randomData(100, net)
