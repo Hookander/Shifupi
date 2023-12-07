@@ -1,7 +1,7 @@
 # Shifupi
 
 Shifupi is a robotic hand controlled by a Raspberry Pi to play Rock-Paper-Scissors. It has a camera with an AI to detect which symbol the player made and therefore determine who won.
-
+For now I still have to improve the structure but it's working just fine ^^
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
