@@ -210,7 +210,11 @@ def randomData(n, network):
     return tab
 
 
-#net =  Network([2, 10, 10, 3])
+net =  Network([2, 3, 4])
+print("BIASES")
+print(net.biases)
+print("WEIGHTS")
+print(net.weights)
 #trainingData = [(np.array([[1], [3]]), np.array([[1], [0], [0]]))]
 '''
 trainingData = randomData(100, net)
